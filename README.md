@@ -4,7 +4,7 @@
 You can view the complete technical report here: [ARP Cache Poisoning Attack Lab (PDF)](./ARP-Cache-Poisoning-Attack-Lab.pdf)
 
 ## Objective
-The goal of this project is to perform a series of Man-in-the-Middle (MITM) attacks using ARP cache poisoning. I demonstrated how to redirect traffic between a client and server through an attacker machine to intercept and modify data in real-time.
+The goal of this lab is to perform a series of Man-in-the-Middle (MITM) attacks using ARP cache poisoning. I demonstrated how to redirect traffic between a client and server through an attacker machine to intercept and modify data in real-time.
 
 ## Tools & Environment
 * **Language:** Python (Scapy library)
